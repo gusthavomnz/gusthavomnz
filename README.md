@@ -1,47 +1,25 @@
-<h1 align="center">Olá, eu sou o Gusthavo Menezes 👋</h1>
-<h3 align="center">Estudante de Sistemas de Informação com foco em desenvolvimento Back-End.</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Aberto%20a%20novos%20desafios-brightgreen" alt="Status"/>
-</p>
-
+<h1 align="center">Gusthavo Menezes</h1>
+<h3 align="center">Desenvolvedor Back-End em formação</h3>
 ---
-
-### 🚀 Sobre Mim
-
+### 💡 Sobre Mim
 <p align="left">
-  🎓 Atualmente no 4º período de <strong>Sistemas de Informação</strong> no Instituto Federal de Sergipe (IFS).<br>
-  👨‍💻 Tenho conhecimento em desenvolvimento de APIs RESTful com <strong>Java</strong>, <strong>Spring Boot</strong> e banco de dados <strong>MySQL</strong>.<br>
-  💡 Meu foco atual é aprofundar meus conhecimentos em ecossistemas back-end, mas estou sempre aberto a explorar novas tecnologias e desafios.<br>
-  🌱 Buscando oportunidades para colaborar em projetos e ganhar experiência prática no desenvolvimento de software.
+  Atualmente no 4º período de Sistemas de Informação no <strong>Instituto Federal de Sergipe (IFS)</strong>.
+  <br><br>
+  Minha formação acadêmica me deu uma base sólida em <strong>Programação Orientada a Objetos</strong>, <strong>Estrutura de Dados I e II</strong>, e <strong>Engenharia de Software</strong>. Hoje, aplico esses conceitos no desenvolvimento back-end, utilizando principalmente <strong>Java</strong>, <strong>Spring Boot</strong> para a criação de APIs e <strong>MySQL</strong> para a modelagem e gestão de bancos de dados.
+  <br><br>
+  Estou em busca de oportunidades para transformar meu conhecimento em experiência de mercado e colaborar em projetos desafiadores.
 </p>
-
 ---
-
-### 💻 Habilidades e Ferramentas
-
+### 🛠️ Habilidades e Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git&perline=4" />
   </a>
 </p>
-
 ---
-### 📊 Minhas Estatísticas do GitHub
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gusthavomnz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+### 📫 Como me encontrar
+<p>
+  <a href="https://www.linkedin.com/in/gusthavomnz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusthavomnz&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
-
----
-
-### 📫 Conecte-se Comigo
-
-<p align="left">
-  <a href="https://linkedin.com/in/gusthavomnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gusthavo Menezes" height="30" width="40" /></a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
