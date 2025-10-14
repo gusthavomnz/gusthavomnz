@@ -1,25 +1,38 @@
 <h1 align="center">Gusthavo Menezes</h1>
 <h3 align="center">Desenvolvedor Back-End em formação</h3>
+
 ---
+
 ### 💡 Sobre Mim
 <p align="left">
   Atualmente no 4º período de Sistemas de Informação no <strong>Instituto Federal de Sergipe (IFS)</strong>.
   <br><br>
-  Minha formação acadêmica me deu uma base sólida em <strong>Programação Orientada a Objetos</strong>, <strong>Estrutura de Dados I e II</strong>, e <strong>Engenharia de Software</strong>. Hoje, aplico esses conceitos no desenvolvimento back-end, utilizando principalmente <strong>Java</strong>, <strong>Spring Boot</strong> para a criação de APIs e <strong>MySQL</strong> para a modelagem e gestão de bancos de dados.
+  Minha formação está me proporcionando uma base robusta que vai da teoria à prática. Tenho sólidos conhecimentos em <strong>Programação Orientada a Objetos</strong> e <strong>Estrutura de Dados I e II</strong>, complementados por disciplinas essenciais como <strong>Padrões de Projeto e Arquitetura de Software</strong> e <strong>Qualidade de Software</strong>.
   <br><br>
-  Estou em busca de oportunidades para transformar meu conhecimento em experiência de mercado e colaborar em projetos desafiadores.
+  Meu foco é aplicar esses conceitos para construir APIs eficientes e escaláveis com <strong>Java</strong> e <strong>Spring Boot</strong>, utilizando <strong>MySQL</strong> para a modelagem e gestão de bancos de dados. Estou em busca de oportunidades para transformar meu conhecimento em experiência de mercado.
 </p>
+
 ---
+
 ### 🛠️ Habilidades e Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,postman" />
   </a>
 </p>
+
 ---
+
+### 🌟 Meus Principais Projetos:
+  
+- **[microDelivery](https://github.com/gusthavomnz/microDelivery)**
+  - 🛵 API REST de Delivery: Backend para um sistema de delivery com controle de estoque, desenvolvido em Java, Spring Boot e MySQL.
+  - A arquitetura em camadas (Controller-Service-Repository) garante a separação de responsabilidades e a manutenibilidade do código.
+---
+
 ### 📫 Como me encontrar
-<p>
-  <a href="https://www.linkedin.com/in/gusthavomnz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gusthavomnz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gusthavogp123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/gusthavosm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
