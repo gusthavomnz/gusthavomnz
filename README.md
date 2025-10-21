@@ -30,7 +30,7 @@
 🛵 API REST de Delivery: Backend para um sistema de delivery com controle de estoque, desenvolvido em Java, Spring Boot e MySQL.
 A arquitetura em camadas (Controller-Service-Repository) garante a separação de responsabilidades e a manutenibilidade do código.
 
-- **[projetoBlog](https://github.com/gusthavomnz/plataforma-blog-api)** (Em Desenvolvimento!)
+- **[projetoBlog](https://github.com/gusthavomnz/plataforma-blog-api)**
 ✍️ API REST para Plataforma de Blog: Backend para uma plataforma de conteúdo multiusuário, permitindo o gerenciamento completo de usuários, postagens e comentários.
 Desenvolvido em Java, Spring Boot e MySQL, utiliza a arquitetura em camadas (Controller-Service-Repository) e o padrão DTO para garantir um código limpo e seguro na transferência de dados.
 ---
