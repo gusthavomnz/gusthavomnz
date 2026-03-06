@@ -5,7 +5,7 @@
 
 ### 💡 Sobre Mim
 <p align="left">
-  Atualmente no 4º período de Sistemas de Informação no <strong>Instituto Federal de Sergipe (IFS)</strong>.
+  Atualmente no 5º período de Sistemas de Informação no <strong>Instituto Federal de Sergipe (IFS)</strong>.
   <br><br>
   Minha formação está me proporcionando uma base robusta que vai da teoria à prática. Tenho sólidos conhecimentos em <strong>Programação Orientada a Objetos</strong> e <strong>Estrutura de Dados I e II</strong>, complementados por disciplinas essenciais como <strong>Padrões de Projeto e Arquitetura de Software</strong> e <strong>Qualidade de Software</strong>.
   <br><br>
@@ -23,16 +23,7 @@
 
 ---
 
-### 🌟 Meus Principais Projetos:
-  
 
-- **[microDelivery](https://github.com/gusthavomnz/microDelivery)**
-🛵 API REST de Delivery: Backend para um sistema de delivery com controle de estoque, desenvolvido em Java, Spring Boot e MySQL.
-A arquitetura em camadas (Controller-Service-Repository) garante a separação de responsabilidades e a manutenibilidade do código.
-
-- **[projetoBlog](https://github.com/gusthavomnz/plataforma-blog-api)**
-✍️ API REST para Plataforma de Blog: Backend para uma plataforma de conteúdo multiusuário, permitindo o gerenciamento completo de usuários, postagens e comentários.
-Desenvolvido em Java, Spring Boot e MySQL, utiliza a arquitetura em camadas (Controller-Service-Repository) e o padrão DTO para garantir um código limpo e seguro na transferência de dados.
 ---
 
 ### 📫 Como me encontrar
