@@ -1,34 +1,39 @@
-<h1 align="center">Gusthavo Menezes</h1>
-<h3 align="center">Desenvolvedor Back-End em formação</h3>
+# Olá, eu sou o Gusthavo Menezes 👋 (@gusthavomnz)
+
+### 👨‍💻 Desenvolvedor Backend | Graduando em Sistemas de Informação (IFS)
+
+Atualmente no **5º período** de Sistemas de Informação no Instituto Federal de Sergipe (IFS). Sou apaixonado por arquitetura de software e soluções robustas de backend. Tenho uma base acadêmica sólida em algoritmos, estrutura de dados e engenharia de software, com foco especial em **ecossistemas Java** e **modelagem de dados avançada**.
 
 ---
 
-### 💡 Sobre Mim
+### 🚀 No que estou trabalhando?
+-  Atualmente focado em **Java e Spring Boot** para criação de APIs escaláveis.
+-  Expandindo meu stack para o Frontend com **React, TypeScript e Vite**.
+-  Aplicando conceitos de **Padrões de Projeto (Design Patterns)** e **Qualidade de Software** em meus projetos.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| **Bancos de Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Frontend (Em estudo)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Infra & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redes](https://img.shields.io/badge/-Networking-gray?style=flat-square&logo=cisco&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+
+
+### 📈 Estatísticas do GitHub
+
 <p align="left">
-  Atualmente no 5º período de Sistemas de Informação no <strong>Instituto Federal de Sergipe (IFS)</strong>.
-  <br><br>
-  Minha formação está me proporcionando uma base robusta que vai da teoria à prática. Tenho sólidos conhecimentos em <strong>Programação Orientada a Objetos</strong> e <strong>Estrutura de Dados I e II</strong>, complementados por disciplinas essenciais como <strong>Padrões de Projeto e Arquitetura de Software</strong> e <strong>Qualidade de Software</strong>.
-  <br><br>
-  Meu foco é aplicar esses conceitos para construir APIs eficientes e escaláveis com <strong>Java</strong> e <strong>Spring Boot</strong>, utilizando <strong>MySQL</strong> para a modelagem e gestão de bancos de dados. Estou em busca de oportunidades para transformar meu conhecimento em experiência de mercado.
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusthavomnz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusthavomnz&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,postman" />
-  </a>
-</p>
+### 📫 Contato
+- **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gusthavomnz/).
+- **E-mail:** gusthavogp123@gmail.com
 
----
-
-
----
-
-### 📫 Como me encontrar
-<p align="left">
-  <a href="https://www.linkedin.com/in/gusthavomnz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gusthavogp123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/gusthavosm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
