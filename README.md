@@ -1,5 +1,4 @@
-# Olá, eu sou o Gusthavo Menezes 👋 (@gusthavomnz)
-
+# Olá, eu sou o Gusthavo Menezes 👋 
 ### 👨‍💻 Desenvolvedor Backend | Graduando em Sistemas de Informação (IFS)
 
 Atualmente no **5º período** de Sistemas de Informação no Instituto Federal de Sergipe (IFS). Sou apaixonado por arquitetura de software e soluções robustas de backend. Tenho uma base acadêmica sólida em algoritmos, estrutura de dados e engenharia de software, com foco especial em **ecossistemas Java** e **modelagem de dados avançada**.
@@ -22,16 +21,6 @@ Atualmente no **5º período** de Sistemas de Informação no Instituto Federal 
 | **Frontend (Em estudo)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Infra & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redes](https://img.shields.io/badge/-Networking-gray?style=flat-square&logo=cisco&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusthavomnz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusthavomnz&layout=compact&langs_count=7&theme=radical" />
-</p>
-
----
 
 ### 📫 Contato
 - **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gusthavomnz/).
