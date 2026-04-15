@@ -23,6 +23,6 @@ Atualmente no **5º período** de Sistemas de Informação no Instituto Federal 
 
 
 ### 📫 Contato
-- **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gusthavomnz/).
+- **LinkedIn:** [https://www.linkedin.com/in/gusthavomnz/](https://www.linkedin.com/in/gusthavomnz/).
 - **E-mail:** gusthavogp123@gmail.com
 
