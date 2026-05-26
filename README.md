@@ -1,28 +1,42 @@
-# Olá, eu sou o Gusthavo Menezes 👋 
-### 👨‍💻 Desenvolvedor Backend | Graduando em Sistemas de Informação (IFS)
+# Gusthavo Menezes
 
-Atualmente no **5º período** de Sistemas de Informação no Instituto Federal de Sergipe (IFS). Sou apaixonado por arquitetura de software e soluções robustas de backend. Tenho uma base acadêmica sólida em algoritmos, estrutura de dados e engenharia de software, com foco especial em **ecossistemas Java** e **modelagem de dados avançada**.
+Desenvolvedor backend com foco em arquitetura de software e APIs escaláveis. Atualmente no 5º período de Sistemas de Informação no IFS, construindo soluções reais enquanto estudo — não só projetos de faculdade.
 
----
+Trabalho principalmente com **Java e Spring Boot**, e estou expandindo para o ecossistema frontend com **React e TypeScript**.
 
-### 🚀 No que estou trabalhando?
--  Atualmente focado em **Java e Spring Boot** para criação de APIs escaláveis.
--  Expandindo meu stack para o Frontend com **React, TypeScript e Vite**.
--  Aplicando conceitos de **Padrões de Projeto (Design Patterns)** e **Qualidade de Software** em meus projetos.
+![Pac-Man](https://raw.githubusercontent.com/gusthavomnz/gusthavomnz/output/github-contribution-grid-pacman.svg)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| **Bancos de Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Frontend (Em estudo)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Infra & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redes](https://img.shields.io/badge/-Networking-gray?style=flat-square&logo=cisco&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+**⚙️ Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logoColor=white)
 
+**🗄️ Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 📫 Contato
-- **LinkedIn:** [https://www.linkedin.com/in/gusthavomnz/](https://www.linkedin.com/in/gusthavomnz/).
-- **E-mail:** gusthavogp123@gmail.com
+**🎨 Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+**🚀 Infra & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OSRM](https://img.shields.io/badge/OSRM-7EBC6F?style=flat-square&logoColor=white)
+
+---
+
+## 🚧 Projetos
+
+### 🛣️ [Rota Inteligente MS](https://github.com/gusthavomnz/rota-inteligente-ms) — Microserviço de logística
+Microserviço em Java/Spring Boot para cálculo de rotas de frete usando OSRM para distâncias rodoviárias reais. Pipeline de contingência em três camadas: BrasilAPI → OpenStreetMap Nominatim → OSRM.
+
+### 🚗 [SmartCar](https://github.com/gusthavomnz/smartcar) — Avaliação de preços FIPE
+API de avaliação de veículos usados que classifica anúncios como *ótimo negócio*, *na média*, *acima da média* ou *difícil de vender* com base no valor FIPE, quilometragem e estado de conservação. Construída com Java 17, Spring Boot 3 e OpenFeign.
+
+### 🏋️ [GymTracker](https://github.com/gusthavomnz/gymtracker)
+> Em breve
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gusthavomnz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusthavomnz/) [![Email](https://img.shields.io/badge/Email-gusthavogp123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gusthavogp123@gmail.com)
