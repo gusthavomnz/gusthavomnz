@@ -1,5 +1,6 @@
-
-Olá, meu nome é Gusthavo.
+**backend developer** | java & spring boot
+**5º período** | sistemas de informação | IFS
+**sergipe, br** — building real things
 
 Desenvolvedor backend com foco em arquitetura de software e APIs escaláveis. Construindo soluções reais enquanto estudo — não só projetos de faculdade.
 
@@ -31,10 +32,10 @@ Microserviço em Java/Spring Boot para cálculo de rotas de frete usando OSRM pa
 **🚗 [SmartCar](https://github.com/gusthavomnz/smartcar)**
 API de avaliação de veículos usados que classifica anúncios como *ótimo negócio*, *na média*, *acima da média* ou *difícil de vender* com base no valor FIPE, quilometragem e estado de conservação. Construída com Java 17, Spring Boot 3 e OpenFeign.
 
-**🏋️ [GymTracker](https://github.com/gusthavomnz/gymtracker)** — `wip`
+**🏋️ [GymTracker](https://github.com/gusthavomnz/gymtracker)** — 
 
 ---
 
 <table><tr><td bgcolor="#0d1117">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=50&pause=20000&color=28C840&background=0D111700&width=680&multiline=true&height=70&lines=git+status;On+branch+main;nothing+to+commit%2C+always+something+to+learn" alt="terminal"/>
+<img src="https://raw.githubusercontent.com/gusthavomnz/gusthavomnz/output/terminal.svg" alt="terminal"/>
 </td></tr></table>
