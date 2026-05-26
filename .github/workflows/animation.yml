@@ -1,4 +1,4 @@
-name: Generate Wave
+name: Generate Pac-Man
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: gusthavomnz
           outputs: |
-            dist/github-contribution-grid-wave.svg?type=gif&color_snake=#58a6ff&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
+            dist/github-contribution-grid-pacman.svg?type=pacman&color_snake=#FFD700&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
