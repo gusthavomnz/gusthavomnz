@@ -1,0 +1,61 @@
+<svg width="680" height="90" viewBox="0 0 680 90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="90" rx="6" fill="#0d1117"/>
+
+  <defs>
+    <style>
+      @keyframes typing1 {
+        0%   { width: 0 }
+        18%  { width: 10ch }
+        72%  { width: 10ch }
+        90%  { width: 0 }
+        100% { width: 0 }
+      }
+      @keyframes typing2 {
+        0%   { width: 0 }
+        22%  { width: 0 }
+        40%  { width: 15ch }
+        72%  { width: 15ch }
+        90%  { width: 0 }
+        100% { width: 0 }
+      }
+      @keyframes typing3 {
+        0%   { width: 0 }
+        42%  { width: 0 }
+        68%  { width: 42ch }
+        72%  { width: 42ch }
+        90%  { width: 0 }
+        100% { width: 0 }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1 }
+        50%      { opacity: 0 }
+      }
+
+      .line { font-family: 'Courier New', monospace; font-size: 14px; }
+
+      .clip1 { animation: typing1 6s steps(10, end) infinite; }
+      .clip2 { animation: typing2 6s steps(15, end) infinite; }
+      .clip3 { animation: typing3 6s steps(42, end) infinite; }
+
+      .cursor { animation: blink 0.7s infinite; }
+    </style>
+  </defs>
+
+  <!-- linha 1: git status -->
+  <svg x="20" y="18" overflow="hidden">
+    <rect class="clip1" height="20" fill="#0d1117"/>
+    <text class="line" fill="#28c840" x="0" y="16">git status</text>
+  </svg>
+
+  <!-- linha 2: On branch main -->
+  <svg x="20" y="42" overflow="hidden">
+    <rect class="clip2" height="20" fill="#0d1117"/>
+    <text class="line" fill="#28c840" x="0" y="16">On branch main</text>
+  </svg>
+
+  <!-- linha 3: nothing to commit... -->
+  <svg x="20" y="66" overflow="hidden">
+    <rect class="clip3" height="20" fill="#0d1117"/>
+    <text class="line" fill="#28c840" x="0" y="16">nothing to commit, always something to learn</text>
+  </svg>
+</svg>
