@@ -1,7 +1,7 @@
 # Gusthavo Menezes
 ### Backend Developer · Java & Spring Boot · Fullstack em Formação
 
-Desenvolvedor backend com foco em arquitetura de software e APIs escaláveis. Construindo soluções reais enquanto estudo — não só projetos de faculdade.
+Backend developer com foco em arquitetura de software, integrações com APIs externas e código limpo. Apaixonado por transformar ideias em soluções reais, desenvolvendo projetos próprios paralelamente à graduação em Sistemas de Informação no IFS. Atualmente expandindo o stack para o frontend com React e TypeScript. Aberto a oportunidades onde possa contribuir, aprender e evoluir como desenvolvedor.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gusthavomnz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusthavomnz/) [![Gmail](https://img.shields.io/badge/Gmail-gusthavogp123-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gusthavogp123@gmail.com)
 
