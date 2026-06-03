@@ -19,15 +19,15 @@ Backend developer com foco em arquitetura de software e código limpo. Sou movid
 
 **🚗 [SmartCar](https://github.com/gusthavomnz/smart-car-api)**:
 API REST para avaliação inteligente de veículos usados. Aplica um modelo heurístico que cruza o valor FIPE com quilometragem e estado de conservação para calcular um preço justo e classificar o negócio em termos simples, ajudando compradores leigos a entenderem se estão fazendo um bom negócio — a classificação é calculada inteiramente pelo sistema e o Groq (IA) apenas traduz o resultado em uma explicação humanizada.
-`Java` · `Spring Boot` · `MySQL` · `JWT`
+`Java` · `Spring Boot` · `MySQL` · `Docker` · `JWT`
 
 **🏋️ [GymTracker](https://github.com/gusthavomnz/gymtracker)**:
 API REST para registro e análise de treinos de musculação. Desenvolvida para ajudar praticantes a medir evolução e progressão de carga ao longo do tempo, calculando automaticamente volume de carga, recordes pessoais, estimativa de 1RM pela fórmula de Brzycki e distribuição de volume por grupo muscular.
-`Java` · `Spring Boot` · `MySQL` · `JWT`
+`Java` · `Spring Boot` · `MySQL` · `Docker` · `JWT`
 
 **🛣️ [Rota Inteligente MS](https://github.com/gusthavomnz/rota-inteligente-ms)**:
 Microserviço de precificação de frete baseado em rotas rodoviárias reais. Gerencia centros de distribuição, estoque e produtos, seleciona automaticamente o CD mais próximo com estoque suficiente e calcula o custo via pipeline resiliente: BrasilAPI → Nominatim → OSRM. `[Projeto em Desenvolvimento]` ·
-`Java` · `Spring Boot` · `SQL Server`
+`Java` · `Spring Boot` · `SQL Server` · `Docker` 
 
 ---
 
