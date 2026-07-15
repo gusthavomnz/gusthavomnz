@@ -25,10 +25,6 @@ API REST para avaliação inteligente de veículos usados. Aplica um modelo heur
 API REST para registro e análise de treinos de musculação. Desenvolvida para ajudar praticantes a medir evolução e progressão de carga ao longo do tempo, calculando automaticamente volume de carga, recordes pessoais, estimativa de 1RM pela fórmula de Brzycki e distribuição de volume por grupo muscular.
 `Java` · `Spring Boot` · `MySQL` · `Docker` · `JWT`
 
-**🛣️ [Rota Inteligente MS](https://github.com/gusthavomnz/rota-inteligente-ms)**:
-Microserviço de precificação de frete baseado em rotas rodoviárias reais. Gerencia centros de distribuição, estoque e produtos, seleciona automaticamente o CD mais próximo com estoque suficiente e calcula o custo via pipeline resiliente: BrasilAPI → Nominatim → OSRM. `[Projeto em Desenvolvimento]` ·
-`Java` · `Spring Boot` · `SQL Server` · `Docker` 
-
 **📎 [Encurta-aê](https://github.com/gusthavomnz/encurta-ae)**:
 Aplicação fullstack para encurtamento de URLs com dashboard de gerenciamento. Permite criar links curtos com slugs gerados automaticamente, definir data de expiração, gerar QR Code e acompanhar contagem de cliques. `[Projeto em Desenvolvimento]`
 `Typescript` · `React` · `NodeJS` · `TailwindCSS`
